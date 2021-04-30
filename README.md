@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-<!--
-**MateusMendanha/MateusMendanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BOAS VINDAS AO MEU PERFIL
 
-Here are some ideas to get you started:
+:man_technologist:Sou um apaixonado por desenvolvimento, acadêmico de sistemas de informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :fist_oncoming: GitHub Stats
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MateusMendanha)
+
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateus-martins-b06b3a1ab/)
